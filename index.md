@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <link rel="shortcut icon" href="images/favicon.ico" />
@@ -93,10 +93,9 @@
 		            	<li class="d-flex"><span>Email:</span> <span>ileniacont@hotmail.com</span></li>
 		            	<li class="d-flex"><span>Phone: </span> <span>+39-3394736998</span></li>
 		            </ul>
-		          </div>
-		        </div>
+		    
 
-                </p>
+                
                 <p><a href="images/cv ilenia contessa eng.pdf" class="btn btn-primary py-3 px-3">Download CV</a></p>
               </div>
 	          </div>
@@ -367,7 +366,7 @@ develop organizational skills, having to manage the office by myself.</p>
 					  </div>
 
     	</div>
-    </section>
+ 
 
     <section class="ftco-section" id="services-section">
     	<div class="container-fluid px-md-5">
@@ -375,7 +374,7 @@ develop organizational skills, having to manage the office by myself.</p>
           <div class="col-md-12 heading-section text-center ftco-animate">
           	<h1 class="big big-2">Services</h1>
             <h2 class="mb-4">Services</h2>
-            <p>Digital marketing</p>
+            
           </div>
         </div>
     		<div class="row">
@@ -495,8 +494,7 @@ develop organizational skills, having to manage the office by myself.</p>
 						<p>Do you need help for your projects or simply need counseling in the digital sphere?<br> You're in the right place!</br> </p>
 						<p class="mb-0"><a href="https://www.linkedin.com/in/ilenia-contessa/" class="btn btn-primary py-3 px-5">Hire me</a></p>
 					</div>
-				</div>
-			</div>
+			
 		</section>
 
     <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
@@ -504,9 +502,8 @@ develop organizational skills, having to manage the office by myself.</p>
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h1 class="big big-2">Contact</h1>
-            <h2 class="mb-4">Contact Me</h2
-          </div>
-        </div>
+            <h2> class="mb-4">Contact Me</h2>
+     
 
         <div class="row d-flex contact-info mb-5">
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -579,10 +576,9 @@ develop organizational skills, having to manage the office by myself.</p>
 
           <div class="col-md-6 d-flex">
           	<div class="img" style="background-image: url(images/work-5.jpg);"></div>
-          </div>
-        </div>
+         
       </div>
-    </section>
+
 
 
     <footer class="ftco-footer ftco-section">
@@ -666,5 +662,4 @@ develop organizational skills, having to manage the office by myself.</p>
 
   <script src="js/main.js"></script>
 
-  </body>
-</html>
+
